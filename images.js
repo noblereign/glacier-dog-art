@@ -5,12 +5,12 @@ function loadImages() {
 		if (this.readyState == 4 && this.status == 200) {
 			const fileList = this.responseText.split('\n'); // Split by lines
 			let currentFolder = '';
-			let artistName = '';
 			
 			const filePaths = fileList
 			.map(f => { // Build correct path for each file
 				let filePath = '';
-
+				let artistName = '';
+				
 				if (f) {
 					if (f[0] === '.') {
 						currentFolder = f.replace('.', '').replace(':', '/');
@@ -21,7 +21,7 @@ function loadImages() {
 					}
 				}
 	  
-				return filePath;
+				return [filePath,artistName];
 			})
 			.filter(f => f); // Remove empty lines
 	  
@@ -32,8 +32,8 @@ function loadImages() {
 				img.setAttribute('class', "materialboxed");
 				img.setAttribute('data-caption', "Has anybody ever told you how cute your generic, nondescript features are?");
 				img.setAttribute('width', "350");
-				img.setAttribute('artist', artistName);
-				img.src = f;
+				img.setAttribute('artist', f[1]);
+				img.src = f[0];
 				imagesContainer.appendChild(img);
 				$(img).materialbox()
 			});
