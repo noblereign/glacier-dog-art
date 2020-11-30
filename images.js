@@ -23,10 +23,13 @@ function loadImages() {
 				})
 				.filter(f => f); // Remove empty lines
 	  
-			const imagesContainer = document.getElementById('images');
+			const imagesContainer = document.getElementById('frostbites');
 	  
 			filePaths.map(f => { // Create and put images to the DOM
 				const img = document.createElement('IMG');
+				img.setAttribute('class', "materialboxed");
+				img.setAttribute('data-caption', "test caption uwu");
+				img.setAttribute('width', "350");
 				img.src = f;
 				imagesContainer.appendChild(img);
 			});
