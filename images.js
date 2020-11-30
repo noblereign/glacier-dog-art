@@ -81,5 +81,5 @@ function populateDescriptions() {
 }
 
 loadImages();
-sleep(1000)
+
 populateDescriptions();
