@@ -1,2 +1,2 @@
 # glacier-dog-art
- frost art
+still dont know how 2 use github pages
