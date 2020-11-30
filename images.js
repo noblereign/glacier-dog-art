@@ -14,7 +14,7 @@ function loadImages() {
 				if (f) {
 					if (f[0] === '.') {
 						currentFolder = f.replace('.', '').replace(':', '/');
-						artistName = f.replace('imgs', '').replace('/','');
+						artistName = f.replace('imgs', '').replace('/','').replace(':','').replace('./','');
 					}
 					else if (f[f.length - 1] !== '/') {
 						filePath = `${location.href}${currentFolder}${f}`;
