@@ -81,5 +81,4 @@ function populateDescriptions() {
 }
 
 loadImages();
-
-populateDescriptions();
+setTimeout(populateDescriptions,1500)
