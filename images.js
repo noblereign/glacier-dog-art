@@ -27,8 +27,7 @@ function loadImages() {
 			const imagesContainer = document.getElementById('glaciers');
 	  
 			filePaths.map(f => { // Create and put images to the DOM
-				let artistName = f.replace('https://frostbite.glacier.dog/imgs/', '')
-				artistName = artistName.split('/')[0];
+				let artistName = f.replace('https://frostbite.glacier.dog//imgs/', '').split('/')[0];
 				const img = document.createElement('IMG');
 				img.setAttribute('class', "materialboxed");
 				img.setAttribute('data-caption', "Has anybody ever told you how cute your generic, nondescript features are?");
