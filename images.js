@@ -14,26 +14,26 @@ function loadImages() {
 				if (f) {
 					if (f[0] === '.') {
 						currentFolder = f.replace('.', '').replace(':', '/');
-						artistName = f.replace('imgs', '').replace('/','').replace(':','').replace('./','');
 					}
 					else if (f[f.length - 1] !== '/') {
 						filePath = `${location.href}${currentFolder}${f}`;
 					}
 				}
 	  
-				return [filePath,artistName];
+				return filePath;
 			})
 			.filter(f => f); // Remove empty lines
 	  
 			const imagesContainer = document.getElementById('glaciers');
 	  
 			filePaths.map(f => { // Create and put images to the DOM
+				let artistName = f.replace('imgs', '').replace('/','').replace(':','').replace('./','');
 				const img = document.createElement('IMG');
 				img.setAttribute('class', "materialboxed");
 				img.setAttribute('data-caption', "Has anybody ever told you how cute your generic, nondescript features are?");
 				img.setAttribute('width', "350");
-				img.setAttribute('artist', f[1]);
-				img.src = f[0];
+				img.setAttribute('artist', artistName);
+				img.src = f;
 				imagesContainer.appendChild(img);
 				$(img).materialbox()
 			});
