@@ -57,19 +57,21 @@ function populateDescriptions() {
 			.map(f => { // Build correct path for each file
 
 				if (f) {
-					var strs = f.split('{');
-					message = strs[1];
-					artistName = strs[0];
+					message = f
 				}
 	  
 				return message;
 			})
 			.filter(f => f); // Remove empty lines
 	  
-			const images = document.querySelectorAll('[artist="' + artistName + '"]');
-	  
-			images.forEach(function (arrayItem) {
-				arrayItem.setAttribute('data-caption', message);
+			filePaths.map(f => { // Create and put images to the DOM
+				var strs = f.split('{');
+				message = strs[1];
+				artistName = strs[0];
+				const images = document.querySelectorAll('[artist="' + artistName + '"]');
+				images.forEach(function (arrayItem) {
+					arrayItem.setAttribute('data-caption', message);
+				});
 			});
 		}
 	};
