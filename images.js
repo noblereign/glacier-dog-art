@@ -57,11 +57,9 @@ function populateDescriptions() {
 			.map(f => { // Build correct path for each file
 
 				if (f) {
-					if (f[0] === '.') {
-						var strs = f.split('{');
-						message = strs[1];
-						artistName = strs[0];
-					}
+					var strs = f.split('{');
+					message = strs[1];
+					artistName = strs[0];
 				}
 	  
 				return message;
