@@ -35,6 +35,7 @@ function loadImages() {
 				img.setAttribute('artist', artistName);
 				img.src = f;
 				imagesContainer.appendChild(img);
+				$(img).materialbox()
 			});
 		}
 	};
