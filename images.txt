@@ -8,4 +8,4 @@ relaxing ych 4-min.png
 winter ych 4-min.png
 
 ./imgs/meijer:
-_l1HEfQq.jpg large.jpg
+frostheadshot.jpg
