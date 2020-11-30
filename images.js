@@ -23,8 +23,7 @@ function loadImages() {
 				})
 				.filter(f => f); // Remove empty lines
 	  
-			var y = document.getElementsByClassName('frostbites');
-			var imagesContainer = y[0]
+			const imagesContainer = document.getElementById('glaciers');
 	  
 			filePaths.map(f => { // Create and put images to the DOM
 				const img = document.createElement('IMG');
