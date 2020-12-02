@@ -1,6 +1,13 @@
 ./imgs/:
+adam/
 maukeiv/
 meijer/
+pixelneko/
+sam/
+teddy/
+
+./imgs/adam:
+noble_moment-min.png
 
 ./imgs/maukeiv:
 frostbite-ref-min.png
@@ -9,3 +16,12 @@ winter ych 4-min.png
 
 ./imgs/meijer:
 frostheadshot.jpg
+
+./imgs/pixelneko:
+20201118_184546-min.jpg
+
+./imgs/sam:
+image0-min.jpg
+
+./imgs/teddy:
+whenhehe.png
