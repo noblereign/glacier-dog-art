@@ -2,6 +2,7 @@
 adam/
 maukeiv/
 meijer/
+otterloser/
 pixelneko/
 sam/
 teddy/
@@ -16,6 +17,9 @@ winter ych 4-min.png
 
 ./imgs/meijer:
 frostheadshot.jpg
+
+./imgs/otterloser:
+otter-min.jpg
 
 ./imgs/pixelneko:
 20201118_184546-min.jpg
