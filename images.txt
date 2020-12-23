@@ -2,6 +2,7 @@
 adam/
 maukeiv/
 meijer/
+neon_woof/
 niku/
 otterloser/
 pixelneko/
@@ -18,6 +19,9 @@ winter ych 4-min.png
 
 ./imgs/meijer:
 frostheadshot.jpg
+
+./imgs/neon_woof:
+noblereign-min.png
 
 ./imgs/niku:
 ytvcT7Cl-min.png
