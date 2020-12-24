@@ -1,5 +1,6 @@
 ./imgs/:
 adam/
+lotte/
 maukeiv/
 meijer/
 neon_woof/
@@ -11,6 +12,9 @@ teddy/
 
 ./imgs/adam:
 noble_moment-min.png
+
+./imgs/lotte:
+pee658-min.png
 
 ./imgs/maukeiv:
 frostbite-ref-min.png
