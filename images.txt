@@ -6,6 +6,7 @@ meijer/
 neon_woof/
 niku/
 otterloser/
+paradox/
 pixelneko/
 sam/
 teddy/
@@ -32,6 +33,9 @@ ytvcT7Cl-min.png
 
 ./imgs/otterloser:
 otter-min.jpg
+
+./imgs/paradox:
+image0 even smaller-min.png
 
 ./imgs/pixelneko:
 20201118_184546-min.jpg
