@@ -1,19 +1,25 @@
 ./imgs/:
 adam/
+eizenfinch/
 lotte/
 maukeiv/
 meijer/
+moonstone/
 neon_woof/
 niku/
 otterloser/
 paradox/
 pixelneko/
+plenn/
 sam/
 teddy/
 tegra/
 
 ./imgs/adam:
 noble_moment-min.png
+
+./imgs/eizenfinch:
+Pog 1-min.png
 
 ./imgs/lotte:
 pee658-min.png
@@ -25,6 +31,9 @@ winter ych 4-min.png
 
 ./imgs/meijer:
 frostheadshot.jpg
+
+./imgs/moonstone:
+0dxbHAqy-min.jpg
 
 ./imgs/neon_woof:
 noblereign-min.png
@@ -40,6 +49,9 @@ image0 even smaller-min.png
 
 ./imgs/pixelneko:
 20201118_184546-min.jpg
+
+./imgs/plenn:
+xRdSdJFO-min.jpg
 
 ./imgs/sam:
 image0-min.jpg
