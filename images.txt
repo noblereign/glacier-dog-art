@@ -1,5 +1,5 @@
 ./imgs/:
-#RefSheet/
+,RefSheet/
 adam/
 eizenfinch/
 hieri_sato/
@@ -18,7 +18,7 @@ sam/
 teddy/
 tegra/
 
-./imgs/#RefSheet:
+./imgs/,RefSheet:
 frostbite-ref-min.png
 
 ./imgs/adam:
