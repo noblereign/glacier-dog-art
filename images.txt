@@ -1,12 +1,12 @@
 ./imgs/:
+#RefSheet/
 adam/
 eizenfinch/
 hieri_sato/
 lotte/
 maukeiv/
-maukeiv_refsheet/
-maukeiv_sparkler/
 meijer/
+mksparkle/
 moonstone/
 neon_woof/
 niku/
@@ -17,6 +17,9 @@ plenn/
 sam/
 teddy/
 tegra/
+
+./imgs/#RefSheet:
+frostbite-ref-min.png
 
 ./imgs/adam:
 noble_moment-min.png
@@ -34,14 +37,11 @@ pee658-min.png
 relaxing ych 4-min.png
 winter ych 4-min.png
 
-./imgs/maukeiv_refsheet:
-frostbite-ref-min.png
-
-./imgs/maukeiv_sparkler:
-sparkler ych noblefurlyfe-min.jpg
-
 ./imgs/meijer:
 frostheadshot.jpg
+
+./imgs/mksparkle:
+sparkler ych noblefurlyfe-min.jpg
 
 ./imgs/moonstone:
 0dxbHAqy-min.jpg
