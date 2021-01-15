@@ -30,9 +30,12 @@ pee658-min.png
 
 ./imgs/maukeiv:
 frostbite-ref-min.png
+mauk_spark/
 relaxing ych 4-min.png
-sparkler ych noblefurlyfe-min.jpg
 winter ych 4-min.png
+
+./imgs/maukeiv/mauk_spark:
+sparkler ych noblefurlyfe-min.jpg
 
 ./imgs/meijer:
 frostheadshot.jpg
