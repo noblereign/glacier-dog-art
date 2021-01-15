@@ -27,6 +27,7 @@ pee658-min.png
 ./imgs/maukeiv:
 frostbite-ref-min.png
 relaxing ych 4-min.png
+sparkler ych noblefurlyfe-min.jpg
 winter ych 4-min.png
 
 ./imgs/meijer:
