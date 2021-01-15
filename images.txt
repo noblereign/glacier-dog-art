@@ -1,6 +1,7 @@
 ./imgs/:
 adam/
 eizenfinch/
+hieri_sato/
 lotte/
 maukeiv/
 meijer/
@@ -20,6 +21,9 @@ noble_moment-min.png
 
 ./imgs/eizenfinch:
 Pog 1-min.png
+
+./imgs/hieri_sato:
+Bottle_commission_ver_unwatermarked.jpg
 
 ./imgs/lotte:
 pee658-min.png
