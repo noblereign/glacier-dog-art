@@ -1,12 +1,14 @@
 ./imgs/:
 ,RefSheet/
 adam/
+calico/
 eizenfinch/
 hieri_sato/
 lotte/
 marv/
 maukeiv/
 meijer/
+mksnowball/
 mksparkle/
 moonstone/
 neon_woof/
@@ -16,6 +18,7 @@ paradox/
 pixelneko/
 plenn/
 sam/
+sinotus/
 teddy/
 tegra/
 
@@ -24,6 +27,9 @@ frostbite-ref-min.png
 
 ./imgs/adam:
 noble_moment-min.png
+
+./imgs/calico:
+frostbite_beloved.png
 
 ./imgs/eizenfinch:
 Pog 1-min.png
@@ -43,6 +49,9 @@ winter ych 4-min.png
 
 ./imgs/meijer:
 frostheadshot.jpg
+
+./imgs/mksnowball:
+frostbite-fullbody-min.png
 
 ./imgs/mksparkle:
 sparkler ych noblefurlyfe-min.jpg
@@ -70,6 +79,9 @@ xRdSdJFO-min.jpg
 
 ./imgs/sam:
 image0-min.jpg
+
+./imgs/sinotus:
+EtiaSGFXcAAzA0o.jpeg
 
 ./imgs/teddy:
 whenhehe.png
