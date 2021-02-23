@@ -6,6 +6,7 @@ eizenfinch/
 hieri_sato/
 lotte/
 marv/
+matchafinn/
 maukeiv/
 meijer/
 mksnowball/
@@ -42,6 +43,9 @@ pee658-min.png
 
 ./imgs/marv:
 coolfrost.jfif
+
+./imgs/matchafinn:
+watermarked-small.jpg
 
 ./imgs/maukeiv:
 relaxing ych 4-min.png
