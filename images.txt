@@ -27,6 +27,7 @@ tegra/
 frostbite-ref-min.png
 
 ./imgs/adam:
+20210304_175009-min.jpg
 noble_moment-min.png
 
 ./imgs/calico:
