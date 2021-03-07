@@ -18,6 +18,7 @@ otterloser/
 paradox/
 pixelneko/
 plenn/
+plenntwo/
 sam/
 sinotus/
 teddy/
@@ -81,6 +82,9 @@ image0 even smaller-min.png
 
 ./imgs/plenn:
 xRdSdJFO-min.jpg
+
+./imgs/plenntwo:
+8nVxu7VF.jpg
 
 ./imgs/sam:
 image0-min.jpg
