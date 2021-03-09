@@ -19,6 +19,7 @@ paradox/
 pixelneko/
 plenn/
 plenntwo/
+quil/
 sam/
 sinotus/
 teddy/
@@ -85,6 +86,9 @@ xRdSdJFO-min.jpg
 
 ./imgs/plenntwo:
 8nVxu7VF.jpg
+
+./imgs/quil:
+FrostBite Complete-min.jpg
 
 ./imgs/sam:
 image0-min.jpg
