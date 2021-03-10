@@ -19,6 +19,7 @@ otterloser/
 paradox/
 pixelneko/
 plenn/
+plennsus/
 plenntwo/
 sam/
 sinotus/
@@ -86,6 +87,9 @@ image0 even smaller-min.png
 
 ./imgs/plenn:
 xRdSdJFO-min.jpg
+
+./imgs/plennsus:
+RffLRqf3.jpg
 
 ./imgs/plenntwo:
 8nVxu7VF.jpg
