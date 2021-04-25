@@ -5,6 +5,7 @@ adam/
 calico/
 eizenfinch/
 hieri_sato/
+kern/
 lotte/
 marv/
 matchafinn/
@@ -44,6 +45,9 @@ Pog 1-min.png
 
 ./imgs/hieri_sato:
 Bottle_commission_ver_unwatermarked.jpg
+
+./imgs/kern:
+glacier.png
 
 ./imgs/lotte:
 pee658-min.png
