@@ -25,6 +25,7 @@ plennsus/
 plenntwo/
 sam/
 sinotus/
+stardust/
 teddy/
 tegra/
 
@@ -107,6 +108,9 @@ image0-min.jpg
 
 ./imgs/sinotus:
 EtiaSGFXcAAzA0o.jpeg
+
+./imgs/stardust:
+frostbite sketch.png
 
 ./imgs/teddy:
 whenhehe.png
