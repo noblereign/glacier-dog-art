@@ -3,6 +3,7 @@
 aaquil/
 adam/
 calico/
+chammuco/
 eizenfinch/
 hieri_sato/
 kern/
@@ -41,6 +42,9 @@ noble_moment-min.png
 
 ./imgs/calico:
 frostbite_beloved.png
+
+./imgs/chammuco:
+27-min.png
 
 ./imgs/eizenfinch:
 Pog 1-min.png
