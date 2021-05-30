@@ -29,6 +29,7 @@ sinotus/
 stardust/
 teddy/
 tegra/
+tegragay/
 
 ./imgs/,RefSheet:
 frostbite-ref-min.png
@@ -121,3 +122,7 @@ whenhehe.png
 
 ./imgs/tegra:
 cate.jpg
+
+./imgs/tegragay:
+cape.png
+flag.png
