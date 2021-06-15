@@ -32,7 +32,7 @@ tegra/
 tegragay/
 
 ./imgs/,RefSheet:
-frostbite-ref-min.png
+frostbite-ref stitched-min.png
 
 ./imgs/aaquil:
 FrostBite Complete-min.jpg
